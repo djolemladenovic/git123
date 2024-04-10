@@ -3,6 +3,6 @@ int main()
 {
 printf("Dobro dosli na kursss");
 printf("Dobro dosli na kurs 123");
-return 0;
+return 0; # ovo je komentar na kod
   
 }
